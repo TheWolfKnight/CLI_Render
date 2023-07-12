@@ -1,0 +1,8 @@
+
+**/*.o
+**/*.exe
+**/*.ignore
+**/ignore
+
+**/res.txt
+
